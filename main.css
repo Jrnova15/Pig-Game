@@ -1,0 +1,76 @@
+/*Sal DeMarco*/
+html body {
+	margin: auto;
+	background-color: black;
+	background-image: url(img/pig.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-size: 100%;
+}
+h3 {
+	text-align: center;
+	font-family: "Trebuchet MS";
+	color: red;
+	text-outline: #F9F6F6;
+}
+button {
+	margin: 0 auto;
+	width: 90px;
+	height: 50px;
+	border-radius: 20px;
+	box-shadow: 1px 1px 1px black;
+	font-family: "Trebuchet MS";
+	color: red;
+	font-size: 20px;
+}
+input {
+	margin: 0 auto;
+	text-align: center;
+	border-style: solid black;
+	width: 95px;
+	height: 25px;
+	color: red;
+	border-width: 1px;
+	border-radius: 20px;
+	font-family: "Trebuchet MS";
+	font-size: 15px;
+	box-shadow: 1px 1px 1px black;
+}
+.tdGame {
+	margin: 0 auto;
+	text-align: center;
+	width: auto;
+	height: auto;
+	padding: 5px 5px 5px 5px;
+}
+.tdAction {
+	margin: 0 auto;
+	text-align: center;
+	width: auto;
+	height: auto;
+	padding: 5px 5px 5px 5px;
+}
+
+th {
+	margin-left: auto :
+	margin-right: auto;
+	margin-top: 10px;
+	text-align: left;
+	padding: 10px 10px 10px 10px;
+}
+table {
+	margin: 0 auto;
+	width: 23%;
+	height: 23%;
+	left: 0;
+	right: 0;
+	padding: 10px 10px 10px 10px;
+	border: 5px solid;
+	border-color: red;
+	border-radius: 25px;
+	background-color: white;
+}
+td {
+text-align: center;
+	
+}
